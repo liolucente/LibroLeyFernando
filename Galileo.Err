@@ -1,0 +1,28 @@
+
+[20/01/2020-10:47:14]
+USUARIO=SIN USUARIO
+MENSAJE=[Microsoft][Administrador de controladores ODBC] No se encuentra el nombre del origen de datos y no se especificó ningún controlador predeterminado (-2147467259-Microsoft OLE DB Provider for ODBC Drivers)
+
+[20/01/2020-16:15:23]
+USUARIO=SIN USUARIO
+MENSAJE=Cannot open database "SGIDEMO_Desarrollo" requested by the login. The login failed. (-2147467259-Microsoft SQL Native Client)
+
+[03/02/2020-15:57:21]
+USUARIO=SIN USUARIO
+MENSAJE=TCP Provider: Host desconocido.
+ (-2147467259-Microsoft SQL Native Client)
+
+[03/02/2020-15:57:46]
+USUARIO=SIN USUARIO
+MENSAJE=TCP Provider: Host desconocido.
+ (-2147467259-Microsoft SQL Native Client)
+
+[03/11/2021-12:54:03]
+USUARIO=SIN USUARIO
+MENSAJE=TCP Provider: No such host is known.
+ (-2147467259-Microsoft SQL Native Client)
+
+[24/02/2022-15:37:50]
+USUARIO=SIN USUARIO
+MENSAJE=TCP Provider: Host desconocido.
+ (-2147467259-Microsoft SQL Native Client)
